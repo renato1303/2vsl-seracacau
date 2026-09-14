@@ -1,0 +1,8 @@
+{
+  "name": "#2 VSL b2b sera cacau",
+  "description": "Cacau 100% brasileiro para elevar a experiência, o valor percebido e a receita da sua operação.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
